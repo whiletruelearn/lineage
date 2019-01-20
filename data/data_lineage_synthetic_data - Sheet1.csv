@@ -1,0 +1,11 @@
+file_name,event_type,timestamp,user_iam,num_columns
+price_daily,read,2017-07-04 13:23:55,price_team,10
+price_weekly,write,2017-07-04 13:35:00,price_team,12
+price_monthly,write,2017-07-04 13:40:00,price_team,14
+price_stats,write,2017-07-04 13:45:00,price_team,16
+dedup_daily,read,2017-07-05 14:23:00,dedup_team,22
+dedup_monthly,write,2017-07-05 14:48:00,dedup_team,25
+dedup_stats,write,2017-07-05 14:59:00,dedup_team,27
+random_daily,read,2017-07-05 18:30:00,random_team,40
+random_daily,read,2017-07-05 18:45:00,random_team,42
+random_daily,write,2017-07-05 18:48:00,random_team,44
